@@ -1,4 +1,8 @@
 # profileGenerator
+https://sapuzzo27.github.io/profileGenerator/
+
+![](https://github.com/SApuzzo27/profileGenerator/blob/main/Develop/images/profileGenerator.png)
+![](https://github.com/SApuzzo27/profileGenerator/blob/main/Develop/images/pG-test.png)
 
 # Unit 10 OOP Homework: Template Engine - Employee Summary
 
